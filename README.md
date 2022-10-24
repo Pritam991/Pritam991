@@ -1,4 +1,4 @@
-[!]<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajal-web&label=Profile%20views&color=0e75b6&style=flat" alt="sajal-web" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritam991&label=Profile%20views&color=0e75b6&style=flat" alt="Pritam991" /> </p>
 
 ![logo](https://exceltable.com/en/templates/images/template6-1.gif) 
 <h1 align="center">Hi 👋, I'm Pritam Mani</h1>
