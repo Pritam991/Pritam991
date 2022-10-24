@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Pritam991&icon=2&color=1)](https://visitcount.itsvg.in)
+[!]<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajal-web&label=Profile%20views&color=0e75b6&style=flat" alt="sajal-web" /> </p>
 
 ![logo](https://exceltable.com/en/templates/images/template6-1.gif) 
 <h1 align="center">Hi 👋, I'm Pritam Mani</h1>
