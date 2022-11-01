@@ -37,6 +37,5 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pritammaniX) 
   
   [![@prit76's Holopin board](https://holopin.me/prit76)](https://holopin.io/@prit76)
-
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
