@@ -38,6 +38,6 @@
   
   
   ## 👨‍💻Hacktoberfest 2022
-  [![@prit76's Holopin board](https://holopin.me/prit76)](https://holopin.io/@prit76)
+ [![@prit76's Holopin board](https://holopin.me/prit76)](https://holopin.io/@prit76)
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
