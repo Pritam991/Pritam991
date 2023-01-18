@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring new technologies, Open source Projects.<br>🤔 Software Developer Intern At [maukaa.me](https://maukaa.me/) .<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: code.mani76@outlook.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I love Coding because there are Errors.
+🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring new technologies, Open source Projects.<br>🤔 Software Developer Intern At [maukaa.me](https://maukaa.me/) .<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: code.mani76@outlook.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: 0 and 1 is everything.
 
 
 ## 🌐 Socials:
