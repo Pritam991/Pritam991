@@ -9,6 +9,9 @@
 🔭 I’m Currently Preparing For Placements.<br>🌱 I’m currently Exploring new technologies, Open source Projects.<br>🤔 Software Developer Intern At [maukaa.me](https://maukaa.me/) .<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: code.mani76@outlook.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: 0 and 1 is everything.
 
 
+              
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#9332) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pritam.mani.16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pritam_mani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam-kumar-mani-37bb62215) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Pritam-Kumar-Mani-3363) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Prit_Code_76) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18311245) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mani_3363) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/cyberX) 
 
